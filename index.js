@@ -8,6 +8,7 @@ fifaData.filter(function(item){
     return item.Year === 2014;
 })
 //(a) Home Team name for 2014 world cup final
+console.log()
 
 //(b) Away Team name for 2014 world cup final
 
